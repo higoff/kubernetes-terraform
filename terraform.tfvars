@@ -1,3 +1,3 @@
-do_token     = "dop_v1_5fe2609d0c1343e0b78277c0961bf96087ca9fe99d26cc7949af777d69c175f3"
+do_token     = "dop_v1_17ce35b0ced912a576ec0e05a97a54d629e6c0d1128a1892fdb4253ba109d9d7"
 ssh_key_name = "Ubuntu"
 region       = "nyc1"
